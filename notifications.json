@@ -962,5 +962,43 @@
    "url_type": "page",
    "copy_type": "rcpl"
   }
+ ],
+ "archive": [
+  {
+   "date": "2026-10-13",
+   "category": "Provident Fund",
+   "jurisdiction": "Central",
+   "state": "Central",
+   "title": "September 2026 ECR and PF due date extended to 31 October",
+   "summary": "Because the EPF wage ceiling rose to ₹25,000 in the middle of September, EPFO gave employers until 31 October 2026 to file the September 2026 ECR and deposit PF contributions. The relief applies to the September wage month only; later months stay due on the 15th.",
+   "effective": "Wage month September 2026",
+   "effective_date": "",
+   "authority": "Employees’ Provident Fund Organisation",
+   "notification_no": "No. Compliance/AnnAcPlan/2022-23/RationalizationofECR-Part(1)/e-704368",
+   "url": "https://www.epfindia.gov.in/site_en/circulars.php",
+   "url_type": "page",
+   "id": "2026-10-13-central-september-2026-ecr-and-pf-due-date-extended-to-31-o",
+   "copy_type": "official",
+   "archived_on": "2026-11-23",
+   "archived_reason": "Expired – the extended due date (31 Oct 2026) has passed"
+  },
+  {
+   "id": "2026-07-01-central-employees-enrolment-campaign-2026-now-closed",
+   "date": "2026-07-01",
+   "category": "Provident Fund",
+   "jurisdiction": "Central",
+   "state": "Central",
+   "title": "Employees’ Enrolment Campaign 2026 (now closed)",
+   "summary": "EPFO let employers declare eligible employees who were left out of PF between 1 April 2009 and 31 March 2026, with the employee share waived where it was never deducted and damages limited to ₹100 per establishment. Declarations closed on 31 October 2026.",
+   "effective": "1 July to 31 October 2026",
+   "effective_date": "2026-07-01",
+   "authority": "Ministry of Labour & Employment / EPFO",
+   "notification_no": "",
+   "url": "https://www.goa.gov.in/wp-content/uploads/2026/07/PR-389.pdf",
+   "url_type": "pdf",
+   "copy_type": "official",
+   "archived_on": "2026-11-23",
+   "archived_reason": "Expired – the campaign closed on 31 Oct 2026"
+  }
  ]
 }
