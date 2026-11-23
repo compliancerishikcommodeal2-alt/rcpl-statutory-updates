@@ -1,6 +1,6 @@
 {
  "version": 2,
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "categories": [
   "Labour Codes",
   "Minimum Wages",
@@ -211,6 +211,17 @@
    "copy_type": "official"
   },
   {
+   "id": "2026-10-13-central-september-2026-ecr-and-pf-due-date-extended-to-31-o",
+   "date": "2026-10-13",
+   "category": "Provident Fund",
+   "state": "Central",
+   "title": "September 2026 ECR and PF due date extended to 31 October",
+   "summary": "Because the EPF wage ceiling rose to ₹25,000 in the middle of September, EPFO gave employers until 31 October 2026 to file the September 2026 ECR and deposit PF contributions. The relief applies to the September wage month only; later months stay due on the 15th.",
+   "effective": "Wage month September 2026",
+   "source": "SCC Times",
+   "url": "https://www.scconline.com/blog/post/2026/10/15/epfo-ecr-deadline-september-2026-extended-31-october/"
+  },
+  {
    "id": "2026-10-08-odisha-vda-raised-by-6-a-day",
    "date": "2026-10-08",
    "category": "Minimum Wages",
@@ -403,6 +414,39 @@
    "copy_type": "rcpl"
   },
   {
+   "id": "2026-08-27-uttar-pradesh-up-osh-rules-and-up-social-security-rules-202",
+   "date": "2026-08-27",
+   "category": "Labour Codes",
+   "state": "Uttar Pradesh",
+   "title": "UP OSH Rules and UP Social Security Rules, 2026 notified",
+   "summary": "Uttar Pradesh notified its final rules under the OSH Code and the Code on Social Security. The OSH Rules replace the state's Factories, Contract Labour, Inter-State Migrant Workmen and Building Workers rules; the Social Security Rules replace the old gratuity, maternity benefit and employees' compensation rules. Both apply from publication.",
+   "effective": "27 August 2026",
+   "source": "TeamLease RegTech",
+   "url": "https://teamleaseregtech.com/updates/article/59333/uttar-pradesh-occupational-safety-health-and-working-conditions-rules-"
+  },
+  {
+   "id": "2026-08-27-gujarat-mandatory-online-registration-under-the-osh-code",
+   "date": "2026-08-27",
+   "category": "Factories & Safety",
+   "state": "Gujarat",
+   "title": "Mandatory online registration under the OSH Code",
+   "summary": "The Labour Commissioner, Gujarat directed factories, plantations and industrial and commercial establishments with 10 or more workers to register on the Shram Setu portal. New establishments have 50 days to register; existing ones must update their certificate within 180 days. Non-registration or false information can attract fines of ₹2–3 lakh.",
+   "effective": "27 August 2026",
+   "source": "Khaitan & Co",
+   "url": "https://www.khaitanco.com/sites/default/files/2026-09/ELB%20Bulletin-August%202026.pdf"
+  },
+  {
+   "id": "2026-08-25-central-bonus-eligibility-set-at-21-000-and-calculation-cei",
+   "date": "2026-08-25",
+   "category": "Bonus & Gratuity",
+   "state": "Central",
+   "title": "Bonus eligibility set at ₹21,000 and calculation ceiling at ₹7,000",
+   "summary": "Two notifications under the Code on Wages (S.O. 4710(E) and 4711(E)) make employees earning up to ₹21,000 a month eligible for statutory bonus. Where wages exceed ₹7,000, bonus is calculated on ₹7,000 or the central minimum wage, whichever is higher. Both apply retrospectively from 21 November 2025.",
+   "effective": "21 November 2025 (retrospective)",
+   "source": "Lakshmikumaran & Sridharan",
+   "url": "https://www.lkslaw.com/insights/updates/employment-law-update/employment-law-update-no-2"
+  },
+  {
    "id": "2026-08-24-tamil-nadu-shops-may-stay-open-all-365-days-for-three-more",
    "date": "2026-08-24",
    "category": "Shops & Establishments",
@@ -417,6 +461,17 @@
    "url": "https://labour.tn.gov.in",
    "url_type": "page",
    "copy_type": "rcpl"
+  },
+  {
+   "id": "2026-08-20-bihar-risk-based-inspection-scheme-under-the-labour-codes",
+   "date": "2026-08-20",
+   "category": "Other",
+   "state": "Bihar",
+   "title": "Risk-based inspection scheme under the Labour Codes",
+   "summary": "Bihar now selects establishments for inspection by computerised risk assessment. Low-risk units may self-certify, medium-risk units need third-party certification and high-risk units are inspected; monthly inspection lists are shared 72 hours in advance.",
+   "effective": "20 August 2026",
+   "source": "Khaitan & Co",
+   "url": "https://www.khaitanco.com/sites/default/files/2026-09/ELB%20Bulletin-August%202026.pdf"
   },
   {
    "id": "2026-08-12-rajasthan-code-on-wages-rajasthan-rules-2026-finalised",
@@ -547,6 +602,28 @@
    "copy_type": "official"
   },
   {
+   "id": "2026-06-29-central-new-epf-eps-and-edli-schemes-2026-notified",
+   "date": "2026-06-29",
+   "category": "Provident Fund",
+   "state": "Central",
+   "title": "New EPF, EPS and EDLI Schemes, 2026 notified",
+   "summary": "The Employees' Provident Fund Scheme, Employees' Pension Scheme and EDLI Scheme, 2026 were notified under the Code on Social Security, replacing the schemes under the old EPF Act. They also carry three special windows: the Employees' Enrolment Campaign, VISHWAS and the PF trust Amnesty.",
+   "effective": "29 June 2026",
+   "source": "KPMG",
+   "url": "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2026/07/KPMG-Flash-News-New-Social-Security-Schemes-2026.pdf"
+  },
+  {
+   "id": "2026-06-29-central-pf-trust-amnesty-open-until-28-december-2026",
+   "date": "2026-06-29",
+   "category": "Provident Fund",
+   "state": "Central",
+   "title": "PF trust Amnesty open until 28 December 2026",
+   "summary": "Establishments running PF trusts that are recognised under the Income Tax Act but lack an EPFO exemption order can regularise them retrospectively under the Amnesty, 2026. Applications close on 28 December 2026; without regularisation, the trust's income-tax recognition is at risk.",
+   "effective": "Until 28 December 2026",
+   "source": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/business/epfo-allows-pf-trusts-to-regularise-defaults-under-one-time-amnesty-scheme-until-december-28"
+  },
+  {
    "id": "2026-06-23-delhi-mcd-merges-trade-licence-with-property-tax",
    "date": "2026-06-23",
    "category": "Trade Licence",
@@ -675,6 +752,28 @@
    "copy_type": "rcpl"
   },
   {
+   "id": "2026-05-08-central-aggregators-must-report-gig-and-platform-workers-on",
+   "date": "2026-05-08",
+   "category": "Other",
+   "state": "Central",
+   "title": "Aggregators must report gig and platform workers on e-Shram",
+   "summary": "Under the Social Security (Central) Rules, 2026, aggregators must submit details of the gig and platform workers they engage on the government portal, electronically or by API. The Code also provides for aggregator contributions of 1–2% of annual turnover, capped at 5% of payouts to workers, towards a social security fund.",
+   "effective": "8 May 2026",
+   "source": "DLA Piper",
+   "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/india-mandates-aggregator-onboarding-to-eshram-portal-to-expand-social-security-coverage"
+  },
+  {
+   "id": "2026-05-01-punjab-minimum-wages-revised-under-the-code-on-wages",
+   "date": "2026-05-01",
+   "category": "Minimum Wages",
+   "state": "Punjab",
+   "title": "Minimum wages revised under the Code on Wages",
+   "summary": "Punjab raised its base minimum wages by about 15%, the first base revision since 2012, by a notification under the Code on Wages. Unskilled workers now get ₹518.69 a day (₹13,486 a month) and highly skilled workers ₹638.50 a day (₹16,601 a month). The notification replaces the old March/September cycle.",
+   "effective": "1 May 2026",
+   "source": "Zimyo",
+   "url": "https://www.zimyo.com/guides/minimum-wages/punjab/"
+  },
+  {
    "id": "2026-04-21-odisha-professional-tax-abolished",
    "date": "2026-04-21",
    "category": "Professional Tax",
@@ -723,6 +822,17 @@
    "copy_type": "rcpl"
   },
   {
+   "id": "2026-02-18-tamil-nadu-dearness-allowance-for-2026-27-notified",
+   "date": "2026-02-18",
+   "category": "Minimum Wages",
+   "state": "Tamil Nadu",
+   "title": "Dearness allowance for 2026-27 notified",
+   "summary": "Tamil Nadu notified the DA payable from 1 April 2026 to 31 March 2027 (No. Z3/3459/2026). For shops and commercial establishments, monthly DA rises to ₹7,353. Employers must add it to the basic rates for each zone.",
+   "effective": "1 April 2026",
+   "source": "AscentHR",
+   "url": "https://ascent-hr.com/en-ph/notification/revision-of-minimum-wages-tamil-nadu-180226/"
+  },
+  {
    "id": "2026-02-17-west-bengal-kolkata-municipal-corporation-revises-trade-lice",
    "date": "2026-02-17",
    "category": "Trade Licence",
@@ -753,6 +863,17 @@
    "url": "https://bbmp.gov.in",
    "url_type": "page",
    "copy_type": "rcpl"
+  },
+  {
+   "id": "2026-01-07-karnataka-lwf-now-covers-establishments-with-10-or-more-emp",
+   "date": "2026-01-07",
+   "category": "Labour Welfare Fund",
+   "state": "Karnataka",
+   "title": "LWF now covers establishments with 10 or more employees",
+   "summary": "The Karnataka Labour Welfare Fund (Amendment) Act, 2025, in force from 7 January 2026, lowers the coverage threshold from more than 50 employees to 10 or more. Smaller establishments that were exempt must now register and pay the existing annual contributions.",
+   "effective": "7 January 2026",
+   "source": "King Stubb & Kasiva",
+   "url": "https://ksandk.com/newsletter/karnataka-labour-welfare-fund-coverage/"
   },
   {
    "id": "2025-12-10-telangana-ghmc-sets-trade-licence-renewal-deadlines-for-20",
